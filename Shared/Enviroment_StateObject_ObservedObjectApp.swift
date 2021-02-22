@@ -11,7 +11,7 @@ import SwiftUI
 struct Enviroment_StateObject_ObservedObjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+        SomeView()
         }
     }
 }

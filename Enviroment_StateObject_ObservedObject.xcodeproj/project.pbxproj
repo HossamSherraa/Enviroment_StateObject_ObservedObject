@@ -10,6 +10,7 @@
 		9FFEBA5A25E428E7007618D2 /* Enviroment_StateObject_ObservedObjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFEBA4725E428E7007618D2 /* Enviroment_StateObject_ObservedObjectApp.swift */; };
 		9FFEBA5C25E428E7007618D2 /* Enviroment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFEBA4825E428E7007618D2 /* Enviroment.swift */; };
 		9FFEBA5E25E428E7007618D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FFEBA4925E428E7007618D2 /* Assets.xcassets */; };
+		9FFEBA6F25E443A8007618D2 /* StateObjectVSObervedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFEBA6E25E443A8007618D2 /* StateObjectVSObervedObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9FFEBA5125E428E7007618D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FFEBA5825E428E7007618D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FFEBA5925E428E7007618D2 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		9FFEBA6E25E443A8007618D2 /* StateObjectVSObervedObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObjectVSObervedObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			children = (
 				9FFEBA4725E428E7007618D2 /* Enviroment_StateObject_ObservedObjectApp.swift */,
 				9FFEBA4825E428E7007618D2 /* Enviroment.swift */,
+				9FFEBA6E25E443A8007618D2 /* StateObjectVSObervedObject.swift */,
 				9FFEBA4925E428E7007618D2 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FFEBA5C25E428E7007618D2 /* Enviroment.swift in Sources */,
+				9FFEBA6F25E443A8007618D2 /* StateObjectVSObervedObject.swift in Sources */,
 				9FFEBA5A25E428E7007618D2 /* Enviroment_StateObject_ObservedObjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
